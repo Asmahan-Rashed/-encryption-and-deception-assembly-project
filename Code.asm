@@ -59,10 +59,7 @@ encrypt procedure
 encrypt ENDP
 
 split PROC
-
-     ;splitting first 4 chars
     mov eax, values[0]
-
     lea ebx, splitOut ; ebx = offset splitOut
     mov ecx, 2 ;counter of outerloop
     splitOuterLoop:
