@@ -1,5 +1,5 @@
 # Encryption-and-deception-assembly-project
- encryption and deception program using MIPS assembly 
+ encryption and deception program using 8086 assembly 
  
 # First :
  we make Encrypt and Decrypt using C programming language tjen convert it to assemply
